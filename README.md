@@ -7,3 +7,4 @@ Assignment 2 module1
 1. Open Index.html in your browser
  
  ###Commit changes
+1.Updates
